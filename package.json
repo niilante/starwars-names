@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijoel/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Joel Iniguez <joel.iniguez@gmail.com> (http://joeliniguez.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ijoel/starwars-names/issues"
+  },
+  "homepage": "https://github.com/ijoel/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
